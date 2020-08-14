@@ -13,6 +13,8 @@ namespace PruebaGit
 
             Console.WriteLine("Hola mundo");
             Console.ReadKey();
+			
+			Console.WriteLine("Hola mundo lucas");
         }
     }
 }
