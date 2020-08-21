@@ -12,6 +12,7 @@ namespace PruebaGit
         {
             Console.WriteLine("Hola mundo Rodrigo");
             Console.WriteLine("Nuevo cambio Rodrigo");
+            Console.WriteLine("mi commit en la rama luciano_2");
             Console.ReadKey();
 			
 			
