@@ -13,8 +13,10 @@ namespace PruebaGit
             Console.WriteLine("Hola mundo Rodrigo");
             Console.WriteLine("Nuevo cambio Rodrigo");
             Console.ReadKey();
-			
-			
+
+            Console.WriteLine("Nuevo cambio Rodrigo 2 ");
+            Console.WriteLine("Nuevo cambio Rodrigo 2 ");
+
         }
     }
 }
