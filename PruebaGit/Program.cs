@@ -12,6 +12,7 @@ namespace PruebaGit
         {
 
             Console.WriteLine("Hola mundo luciano");
+            Console.WriteLine("Mi segundo commit lucho");
             Console.ReadKey();
         }
     }
