@@ -14,7 +14,7 @@ namespace PruebaGit
             Console.WriteLine("Nuevo cambio Rodrigo");
             Console.ReadKey();
 			
-			Console.WriteLine("Hola mundo lucas");
+			
         }
     }
 }
