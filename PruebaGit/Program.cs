@@ -10,8 +10,8 @@ namespace PruebaGit
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola mundo Rodrigo");
+            Console.WriteLine("Nuevo cambio Rodrigo");
             Console.ReadKey();
 			
 			Console.WriteLine("Hola mundo lucas");
